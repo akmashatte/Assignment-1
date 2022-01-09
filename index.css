@@ -1,0 +1,53 @@
+body{
+    padding:0px;
+    margin:0px;
+    background-color:#ffd85a;
+}    
+
+#menu {
+    height: 50px;
+    margin: 0;
+    padding: 0;
+    background-color: #fb7651;
+}
+
+#menu p {
+    margin: 0;
+    float: left;
+}
+
+#menu p a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px 18px;
+    text-decoration: none;
+}
+
+#menu p a:hover {
+    background-color: #ec0808;
+}
+      
+
+.content a{
+    text-decoration:none;
+    color:black;
+}
+      
+.images{
+    margin-left: 320px;
+}
+      
+.labels{
+    margin-left:200px;
+    margin-bottom:50px;
+}
+      
+.fooditem{
+    width:500px;
+    height:500px;
+}
+
+html{
+    scroll-behavior: smooth;
+}
